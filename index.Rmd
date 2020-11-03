@@ -10,3 +10,12 @@ output:
 # This is Jeff's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+## Links
+
+Let's link to useful tools for data science.
+
+* [Google](https://www.google.com)
+* [p8105](https://www.p8105.com)
+
+
+
